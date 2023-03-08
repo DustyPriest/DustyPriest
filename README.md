@@ -1,8 +1,9 @@
 ## Hey! 👀
 ### My name is Hugo, welcome to my GitHub ☺
 
-Most of the repos here are small projects that I've built whilst trying to get started learning programming techniques.
-I'm now studing CS at the University of Melbourne 👨‍🎓
+##### Most of the repos here are small projects that I've built whilst trying to get started learning programming techniques.
+
+##### I'm now studing CS at the University of Melbourne 👨‍🎓
 
 <!--
 **DustyPriest/DustyPriest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
