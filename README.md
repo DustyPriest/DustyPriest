@@ -1,7 +1,7 @@
 ## Hey! 👀
 ### My name is Hugo, welcome to my GitHub ☺
 
-##### Most of the repos here are small projects that I've built whilst trying to get started learning programming.
+##### Most of the repos here are small projects that I've built whilst studying computer science in my own time and at uni.
 
 ##### I'm now studing CS at the University of Melbourne 👨‍🎓
 
